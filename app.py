@@ -6,6 +6,7 @@ from pandasai.llm.openai import OpenAI
 from pandasai import PandasAI
 
 #calling constructior
+#calling constructior
 load_dotenv()
 #Assessing openapi key from .env file
 open_api_key = os.getenv('OPEN_API_KEY')
